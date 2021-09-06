@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GitBay3.Common\GitBay3.Common.csproj" />
+    <ProjectReference Include="..\GitBay3.Server.Data\GitBay3.Server.Data.csproj" />
+  </ItemGroup>
+
+</Project>

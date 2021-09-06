@@ -1,0 +1,12 @@
+Y:\II\TPUM\GitBay3\GitBay3.Common\bin\Debug\net5.0\GitBay3.Common.deps.json
+Y:\II\TPUM\GitBay3\GitBay3.Common\bin\Debug\net5.0\GitBay3.Common.dll
+Y:\II\TPUM\GitBay3\GitBay3.Common\bin\Debug\net5.0\ref\GitBay3.Common.dll
+Y:\II\TPUM\GitBay3\GitBay3.Common\bin\Debug\net5.0\GitBay3.Common.pdb
+Y:\II\TPUM\GitBay3\GitBay3.Common\obj\Debug\net5.0\GitBay3.Common.GeneratedMSBuildEditorConfig.editorconfig
+Y:\II\TPUM\GitBay3\GitBay3.Common\obj\Debug\net5.0\GitBay3.Common.AssemblyInfoInputs.cache
+Y:\II\TPUM\GitBay3\GitBay3.Common\obj\Debug\net5.0\GitBay3.Common.AssemblyInfo.cs
+Y:\II\TPUM\GitBay3\GitBay3.Common\obj\Debug\net5.0\GitBay3.Common.csproj.CoreCompileInputs.cache
+Y:\II\TPUM\GitBay3\GitBay3.Common\obj\Debug\net5.0\GitBay3.Common.dll
+Y:\II\TPUM\GitBay3\GitBay3.Common\obj\Debug\net5.0\ref\GitBay3.Common.dll
+Y:\II\TPUM\GitBay3\GitBay3.Common\obj\Debug\net5.0\GitBay3.Common.pdb
+Y:\II\TPUM\GitBay3\GitBay3.Common\obj\Debug\net5.0\GitBay3.Common.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+Y:\II\TPUM\GitBay3\GitBay3.Client.Data\bin\Debug\net5.0\GitBay3.Client.Data.deps.json
+Y:\II\TPUM\GitBay3\GitBay3.Client.Data\bin\Debug\net5.0\GitBay3.Client.Data.dll
+Y:\II\TPUM\GitBay3\GitBay3.Client.Data\bin\Debug\net5.0\ref\GitBay3.Client.Data.dll
+Y:\II\TPUM\GitBay3\GitBay3.Client.Data\bin\Debug\net5.0\GitBay3.Client.Data.pdb
+Y:\II\TPUM\GitBay3\GitBay3.Client.Data\bin\Debug\net5.0\GitBay3.Common.dll
+Y:\II\TPUM\GitBay3\GitBay3.Client.Data\bin\Debug\net5.0\GitBay3.Common.pdb
+Y:\II\TPUM\GitBay3\GitBay3.Client.Data\obj\Debug\net5.0\GitBay3.Client.Data.csproj.AssemblyReference.cache
+Y:\II\TPUM\GitBay3\GitBay3.Client.Data\obj\Debug\net5.0\GitBay3.Client.Data.GeneratedMSBuildEditorConfig.editorconfig
+Y:\II\TPUM\GitBay3\GitBay3.Client.Data\obj\Debug\net5.0\GitBay3.Client.Data.AssemblyInfoInputs.cache
+Y:\II\TPUM\GitBay3\GitBay3.Client.Data\obj\Debug\net5.0\GitBay3.Client.Data.AssemblyInfo.cs
+Y:\II\TPUM\GitBay3\GitBay3.Client.Data\obj\Debug\net5.0\GitBay3.Client.Data.csproj.CoreCompileInputs.cache
+Y:\II\TPUM\GitBay3\GitBay3.Client.Data\obj\Debug\net5.0\GitBay3.Client.Data.csproj.CopyComplete
+Y:\II\TPUM\GitBay3\GitBay3.Client.Data\obj\Debug\net5.0\GitBay3.Client.Data.dll
+Y:\II\TPUM\GitBay3\GitBay3.Client.Data\obj\Debug\net5.0\ref\GitBay3.Client.Data.dll
+Y:\II\TPUM\GitBay3\GitBay3.Client.Data\obj\Debug\net5.0\GitBay3.Client.Data.pdb

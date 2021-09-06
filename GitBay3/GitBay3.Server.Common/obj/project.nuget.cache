@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pmGg51I5kwny/dJwdKBD/CAPrW6RG8ass4GHExWjbMHjiRVu5Ey/lXnCYqyhVwLRGYrM+uLvXVnbhldJz3IUwg==",
+  "success": true,
+  "projectFilePath": "Y:\\II\\TPUM\\GitBay3\\GitBay3.Server.Common\\GitBay3.Server.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

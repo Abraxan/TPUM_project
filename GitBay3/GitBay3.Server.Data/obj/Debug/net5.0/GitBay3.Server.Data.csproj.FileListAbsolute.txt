@@ -1,0 +1,15 @@
+Y:\II\TPUM\GitBay3\GitBay3.Server.Data\bin\Debug\net5.0\GitBay3.Server.Data.deps.json
+Y:\II\TPUM\GitBay3\GitBay3.Server.Data\bin\Debug\net5.0\GitBay3.Server.Data.dll
+Y:\II\TPUM\GitBay3\GitBay3.Server.Data\bin\Debug\net5.0\ref\GitBay3.Server.Data.dll
+Y:\II\TPUM\GitBay3\GitBay3.Server.Data\bin\Debug\net5.0\GitBay3.Server.Data.pdb
+Y:\II\TPUM\GitBay3\GitBay3.Server.Data\bin\Debug\net5.0\GitBay3.Common.dll
+Y:\II\TPUM\GitBay3\GitBay3.Server.Data\bin\Debug\net5.0\GitBay3.Common.pdb
+Y:\II\TPUM\GitBay3\GitBay3.Server.Data\obj\Debug\net5.0\GitBay3.Server.Data.csproj.AssemblyReference.cache
+Y:\II\TPUM\GitBay3\GitBay3.Server.Data\obj\Debug\net5.0\GitBay3.Server.Data.GeneratedMSBuildEditorConfig.editorconfig
+Y:\II\TPUM\GitBay3\GitBay3.Server.Data\obj\Debug\net5.0\GitBay3.Server.Data.AssemblyInfoInputs.cache
+Y:\II\TPUM\GitBay3\GitBay3.Server.Data\obj\Debug\net5.0\GitBay3.Server.Data.AssemblyInfo.cs
+Y:\II\TPUM\GitBay3\GitBay3.Server.Data\obj\Debug\net5.0\GitBay3.Server.Data.csproj.CoreCompileInputs.cache
+Y:\II\TPUM\GitBay3\GitBay3.Server.Data\obj\Debug\net5.0\GitBay3.Server.Data.csproj.CopyComplete
+Y:\II\TPUM\GitBay3\GitBay3.Server.Data\obj\Debug\net5.0\GitBay3.Server.Data.dll
+Y:\II\TPUM\GitBay3\GitBay3.Server.Data\obj\Debug\net5.0\ref\GitBay3.Server.Data.dll
+Y:\II\TPUM\GitBay3\GitBay3.Server.Data\obj\Debug\net5.0\GitBay3.Server.Data.pdb

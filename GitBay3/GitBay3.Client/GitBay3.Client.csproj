@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GitBay3.Client.Logic\GitBay3.Client.Logic.csproj" />
+    <ProjectReference Include="..\GitBay3.Common\GitBay3.Common.csproj" />
+  </ItemGroup>
+
+</Project>
